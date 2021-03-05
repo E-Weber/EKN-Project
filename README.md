@@ -1,4 +1,4 @@
-# EKN-Project - Crime and COVID-19 in the KC Metro Area
+# EKN-Project: Crime, COVID-19, and unemployment in KC
 # This study takes place from October 2019 to December 2020. In this branch we collected crime and coronavirus data from APIs and unemployment data from governmental sources.
 # Questions pertaining to crime:
     1) Did COVID-19 impact crime in KCMO?
