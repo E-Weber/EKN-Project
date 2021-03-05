@@ -1,3 +1,4 @@
+<<<<<< crime_ns
 # EKN-Project: Crime, COVID-19, and unemployment in KC
 # This study takes place from October 2019 to December 2020. In this branch we collected crime and coronavirus data from APIs and unemployment data from governmental sources.
 # Questions pertaining to crime:
@@ -20,3 +21,10 @@
     2)  Thefts and sexual offenses decreased pre-to-post COVID-19 outbreak, while (theft from/of vehicle), assault, robbery, property crime, quality of life, breaking & entering, and homicide incidents increased.
     3) Unemployment and crime were negatively correlated during the entire timeframe of this study. However, if we only look at October-December 2020, both values increase at the same time. Again, this goes back to the quality of the crime data.
     
+======
+# EKN-Project
+
+# Rona in the Clink
+
+Crime rate during COVID
+>>>>>> main
